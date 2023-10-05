@@ -1,4 +1,4 @@
-# SERSNet: Surface-Enhanced Raman Spectroscopy Based Biomolecule Detection Using Deep Neural Network
+# SERSNet: Surface-Enhanced Raman Spectroscopy Based Biomolecule Detection Using Deep Neural Network [[1]](#1).
 
 R6G Molecule Detection based on SERS Measurement with Machine Learning Models.
 
